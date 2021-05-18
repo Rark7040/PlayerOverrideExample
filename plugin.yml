@@ -1,0 +1,4 @@
+name: PlayerOverRideExample
+version: 1.0.0
+api: 3.19.0
+main: rark\player_over_ride
